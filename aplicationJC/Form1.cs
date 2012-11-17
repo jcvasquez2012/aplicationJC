@@ -19,6 +19,9 @@ namespace aplicationJC
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Your Welcome");
+            int a = 0;
+
+
         }
     }
 }
